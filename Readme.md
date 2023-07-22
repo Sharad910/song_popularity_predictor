@@ -30,7 +30,7 @@ The different implementations of the model can be found in the jupyter notebook 
 
 7. Run `npm run dev` to start the frontend
 
-8. Open your web browser and go to `http://localhost:3000` to access the Song 
+8. Open your web browser and go to `http://localhost:3000` to access the application
 
 ## Technologies Used
 
