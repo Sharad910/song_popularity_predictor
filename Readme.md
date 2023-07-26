@@ -2,8 +2,8 @@
 
 ## Overview
 
-Song Popularity Prediction is a machine learning project that explores various regression algorithms, including Linear Regression, Polynomial Regression, XGBoost Regressor, and Random Forest Regressor, to predict the popularity of songs based on their features. The project demonstrates how to build and compare different regression models and connect them to a Next.js frontend using a Flask API and the pickle module for model serialization.
-The different implementations of the model can be found in the jupyter notebook in the **Notebooks** folder.
+Song Popularity Prediction is a machine learning project that explores various regression algorithms, including Linear Regression, Polynomial Regression, XGBoost Regressor, and Random Forest Regressor to predict the popularity of songs based on their features. The project demonstrates how to build and compare different regression models and connect them to a Next.js frontend using a Flask API and the pickle module for model serialization.
+The different implementations of the model can be found in the jupyter notebook in the **Notebooks** folder. The dataset can be found at this [link](https://www.kaggle.com/datasets/edalrami/19000-spotify-songs)
 
 ## Features
 
